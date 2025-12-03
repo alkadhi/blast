@@ -1,5 +1,7 @@
 # BLAST
 
+## Author(s): Kaito Aihara (kaihara), Anshu Roja Selvamani (aorjasel), Khaled Mohammed (mohammek)
+
 A breakdown of our algorithm 
 Basic Local Alignment Search Tool (BLAST)
 
